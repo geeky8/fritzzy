@@ -1,0 +1,169 @@
+{
+	margin: 0
+	padding:0;
+}
+.clearfix{
+	clear: both;
+}
+.header{
+	background-size: auto;
+}
+.left-header {
+	position: relative;
+	top: 20px;
+	left: 40px;
+	float: left;
+}
+.navbar{
+	float: right;
+}
+.text-custom{
+	color: black;
+	font-family: amaranth;
+	font-size: 30px;
+	position: relative;
+	top: 80px;
+	right: 30px;
+	padding: 0 20px;
+	text-decoration: none;
+}
+.intro{
+	position: relative;
+	left: 25px;
+	top: 40px
+}
+.intro h1{
+	color: black;
+	font-family: Aldrich;
+	font-size: 50px;
+	text-align: left;
+	padding: 0 30px;
+}
+.intro h2{
+	color: black;
+	opacity: 0.5;
+	font-family: Blinker;
+	font-size: 30px;
+	text-align: left;
+	width: 700px; 
+    word-wrap: break-word;
+	padding: 0 30px;
+}
+.none{
+	border-top: 1px solid white;
+}
+.carousel-inner{
+	position: relative;
+	left: 300px;
+	top: 20px;
+}
+.header-2{
+	background: white;
+	width: 100%;
+	height: 520px;
+}
+
+.clearfix{
+	clear: both;
+}
+.header-3{
+	background: floralwhite;
+	width: 100%;
+    height: 920px;
+}
+.my-header h1{
+	color: black;
+    font-family: amaranth;
+    font-size: 50px;
+    position: relative;
+    left: 600px;
+    top: 30px;
+}
+.img1{
+	border-radius: 25px;
+	position: relative;
+	left: 100px;
+}
+.quote1{
+	font-family: alef;
+	position: relative;
+	left:750px;
+	bottom: 225px;
+}
+.img2{
+	position: relative;
+	bottom: 80px;
+	left: 750px;
+	border-radius: 25px;
+}
+.quote2{
+	font-family: alef;
+	position: relative;
+	bottom: 300px;
+	left: 150px;
+}
+.salute{
+	font-size: 20px;
+}
+.col-lg-6 h1{
+	font-family: amaranth;
+	position: relative;
+	left: 410px;
+	top: 50px;
+}
+.header-4{
+	width: 100%;
+	height: 500px;
+}
+.app{
+	position: relative;
+	left: 420px;
+	bottom: 850px;
+}
+.col-lg-6 h2{
+	font-family: blinker;
+	position: relative;
+	left: 410px;
+	top: 100px;
+	opacity: 0.5;
+}
+.backg1{
+	position: relative;
+	bottom:  189px;
+	right: 300px;
+}
+.backg2{
+	position: relative;
+	bottom:  689px;
+	left: 1050px;
+}
+.end{
+	background: url(https://us.123rf.com/450wm/hurvajs11/hurvajs111611/hurvajs11161100021/66307823-high-quality-high-resolution-seamless-wood-texture-dark-hardwood-part-of-parquet-wooden-striped-fibe.jpg?ver=6);
+	background-size: 100% 100%;
+	width: 100%;
+	height: 500px;
+}
+.col{
+	position: relative;
+	top: 80px;
+	left: 60px;
+	color: white;
+}
+.col-head{
+	opacity: 0.5;
+}
+.endfoot{
+	position: relative;
+	left: 600px;
+	top: 180px;
+}
+.endfoot h6{
+	color: white;
+}
+.endfoot button{
+	position: relative;
+	left: 20px;
+}
+.complete{
+	width: 100%;
+}

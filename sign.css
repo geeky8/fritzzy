@@ -1,0 +1,218 @@
+{
+	margin: 0;
+	padding: 0;	
+}
+.header{
+	background-size: auto;
+}
+.booking{
+	border: none;
+  background:none;
+	position: relative;
+	left: 440px;
+	top: 90px;
+	height: 90px;
+  cursor: pointer;
+}
+.booking h1{
+	color: lawngreen;
+	font-family: audiowide;
+	position: relative;
+	font-size: 80px;
+	bottom: 10px;
+	left: 2px;
+	float: left;
+  opacity: 0.9;
+}
+input[name=uname]  {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  position: relative;
+  left: 235px;
+  top: 45px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border-style: groove;
+}
+input[name=psw]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  position: relative;
+  left: 193px;
+  top: 140px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border-style: groove;
+
+}
+input[name=psw1]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  position: relative;
+  left: 95px;
+  top: 155px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border-style: groove;
+
+}
+input[type="email"]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  position: relative;
+  left: 230px;
+  top: 100px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border-style: groove;
+}
+input[name="nname"]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  position: relative;
+  left: 190px;
+  top: 185px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border-style: groove;
+}
+label[for="uname"]{
+	position: relative;
+	left: 204px;
+	top: 45px;
+	font-family: Aldrich;
+    font-size: 20px;
+}
+label[for="psw"]{
+	position: relative;
+	left: 165px;
+	top: 140px;
+	font-family: Aldrich;
+    font-size: 20px;
+}
+label[for="psw1"]{
+  position: relative;
+  left: 70px;
+  top: 153px;
+  font-family: Aldrich;
+    font-size: 20px;
+}
+label[for="nname"]{
+  position: relative;
+  left: 158px;
+  top: 185px;
+  font-family: Aldrich;
+  font-size: 20px;
+}
+label[for="emal"]{
+  position: relative;
+  left: 198px;
+  top: 100px;
+  font-family: Aldrich;
+  font-size: 20px;
+}
+
+button[type="submit"] {
+  background-color: black ;
+  color: white;
+  font-family: Aldrich;
+  font-size: 20px;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  position: relative;
+  right: 100px;
+  top: 300px;
+  border-radius: 12px;
+  border-style: groove;
+}
+
+button[type="submit"]:hover {
+  opacity: 0.6;
+  transition: 0.3s;
+}
+input[type="checkbox"]{
+	position: relative;
+	top: 195px;
+	right: 0px;
+  left: 250px;
+}
+label[for="remember"]{
+	position: relative;
+	top: 195px;
+	right: 0px;
+  left: 240px;
+	font-family: Aldrich;
+    font-size: 20px;
+}
+
+.imgcontainer {
+  position: relative;
+  left: 350px;
+  top: 50px;
+  font-size: 100px;
+  opacity: 0.8;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+  position: relative;
+  top: 200px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+form {
+	width:800px;
+	height: 1000px;
+	background-color: white;
+	position: relative;
+	left: 270px;
+	top: 70px;
+	border-radius: 15px;
+  opacity: 1;
+}
+.log{
+	font-family: Amaranth;
+	font-size: 60px;
+	position: relative;
+	left: 300px;
+	top: 50px;
+	opacity: 0.65;
+}
+.background{
+	background: url(D:/user/Downloads/back.jpg);
+  height: 1350px;
+  width: 100%;
+  opacity: 0.856;
+}
